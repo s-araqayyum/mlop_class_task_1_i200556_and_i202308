@@ -34,7 +34,17 @@ This repository is for the MLOps class task.
         ```
         git push -u origin i200556
         ```
-   - The same is done by i202308.
+    - For the second member (i202308), a new 'feature' branch is created and switched to:
+
+        ```
+        git checkout -b i202308
+        ```
+
+    - Push the new branch to GitHub:
+
+        ```
+        git push -u origin i202308
+        ```
 
 ### Project Scaffolding
 
